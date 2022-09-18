@@ -1,7 +1,7 @@
-# Vue 3 + TypeScript + Vite
+# Pillar Ninja(Vue 3 + TypeScript + Tailwind CSS + Vite)
 
-This is a simple Ninja Pillar web page. The template uses Vue 3 `<script setup>`
-SFCs, check out the
+This is a simple Ninja web page for a test. The template uses Vue 3
+`<script setup>` SFCs, check out the
 [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup)
 to learn more.
 
@@ -28,3 +28,11 @@ Take Over mode by following these steps:
 
 You can learn more about Take Over mode
 [here](https://github.com/johnsoncodehk/volar/discussions/471).
+
+## Install project dependencies
+
+npm install
+
+## run
+
+npm run dev
