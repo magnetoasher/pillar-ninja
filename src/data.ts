@@ -35,8 +35,8 @@ export const socials: ISocial[] = [
     icon: 'fa-brands fa-twitch',
     title: 'Twitch',
     sublinks: [
-      'https://player.twitch.tv?allowfullscreen=true&autoplay=false&channel=ninja&height=350&layout=video-with-chat&parent=pillar.io&referrer=https%3A%2F%2Fpillar.io%2Fninja&theme=dark&width=100%25',
-      'https://www.twitch.tv/embed/ninja/chat?parent=pillar.io&darkpopout',
+      'https://player.twitch.tv?allowfullscreen=true&autoplay=false&channel=ninja&height=350&layout=video-with-chat&referrer=https%3A%2F%2Fpillar.io%2Fninja&theme=dark&width=100%25',
+      'https://www.twitch.tv/embed/ninja/chat&darkpopout',
     ],
   },
   {
